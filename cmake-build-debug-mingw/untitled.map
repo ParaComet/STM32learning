@@ -1,0 +1,1353 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+                              CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj (__aeabi_uldivmod)
+c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                              c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+                              c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-errno.o)
+                              CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj (__errno)
+c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-exit.o)
+                              c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crt0.o (exit)
+c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-impure.o)
+                              c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-exit.o) (_global_impure_ptr)
+c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-init.o)
+                              c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
+c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-memset.o)
+                              c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crt0.o (memset)
+c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-__call_atexit.o)
+                              c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-exit.o) (__call_exitprocs)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crti.o
+ .text          0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .data          0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .bss           0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .data.__dso_handle
+                0x00000000        0x4 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x00000000       0x7c c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crt0.o
+ .data          0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crt0.o
+ .bss           0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.exidx     0x00000000       0x10 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crt0.o
+ .debug_line    0x00000000       0x76 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crt0.o
+ .debug_line_str
+                0x00000000       0xa6 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crt0.o
+ .debug_info    0x00000000       0x24 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crt0.o
+ .debug_abbrev  0x00000000       0x14 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crt0.o
+ .debug_aranges
+                0x00000000       0x20 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crt0.o
+ .debug_str     0x00000000       0xa3 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.attributes
+                0x00000000       0x1c c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crt0.o
+ .text          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Core/Src/gpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Core/Src/gpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/untitled.elf.dir/Core/Src/gpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Core/Src/main.c.obj
+ .data          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Core/Src/main.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/untitled.elf.dir/Core/Src/main.c.obj
+ .text          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .data          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .text          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .data          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .text          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .data          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .text.initialise_monitor_handles
+                0x00000000        0x2 CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .text._getpid  0x00000000        0x4 CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .text._kill    0x00000000       0x10 CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .text._exit    0x00000000        0xc CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .text._read    0x00000000       0x20 CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .text._write   0x00000000       0x1c CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .text._close   0x00000000        0x6 CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .text._fstat   0x00000000        0xa CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .text._isatty  0x00000000        0x4 CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .text._lseek   0x00000000        0x4 CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .text._open    0x00000000        0xa CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .text._wait    0x00000000       0x10 CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .text._unlink  0x00000000       0x10 CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .text._times   0x00000000        0x6 CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .text._stat    0x00000000        0xa CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .text._link    0x00000000       0x10 CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .text._fork    0x00000000       0x10 CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .text._execve  0x00000000       0x10 CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .bss.__env     0x00000000        0x4 CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .data.environ  0x00000000        0x4 CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .debug_info    0x00000000      0x783 CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .debug_abbrev  0x00000000      0x1c1 CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .debug_loclists
+                0x00000000      0x25b CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .debug_aranges
+                0x00000000       0xa8 CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .debug_rnglists
+                0x00000000       0x79 CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .debug_line    0x00000000      0x3c0 CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .debug_str     0x00000000      0x40e CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .comment       0x00000000       0x58 CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .debug_frame   0x00000000      0x190 CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+ .text          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Core/Src/sysmem.c.obj
+ .data          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Core/Src/sysmem.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/untitled.elf.dir/Core/Src/sysmem.c.obj
+ .text._sbrk    0x00000000       0x48 CMakeFiles/untitled.elf.dir/Core/Src/sysmem.c.obj
+ .bss.__sbrk_heap_end
+                0x00000000        0x4 CMakeFiles/untitled.elf.dir/Core/Src/sysmem.c.obj
+ .debug_info    0x00000000      0x171 CMakeFiles/untitled.elf.dir/Core/Src/sysmem.c.obj
+ .debug_abbrev  0x00000000       0xea CMakeFiles/untitled.elf.dir/Core/Src/sysmem.c.obj
+ .debug_loclists
+                0x00000000       0x46 CMakeFiles/untitled.elf.dir/Core/Src/sysmem.c.obj
+ .debug_aranges
+                0x00000000       0x20 CMakeFiles/untitled.elf.dir/Core/Src/sysmem.c.obj
+ .debug_rnglists
+                0x00000000       0x13 CMakeFiles/untitled.elf.dir/Core/Src/sysmem.c.obj
+ .debug_line    0x00000000      0x186 CMakeFiles/untitled.elf.dir/Core/Src/sysmem.c.obj
+ .debug_str     0x00000000      0x23a CMakeFiles/untitled.elf.dir/Core/Src/sysmem.c.obj
+ .comment       0x00000000       0x58 CMakeFiles/untitled.elf.dir/Core/Src/sysmem.c.obj
+ .debug_frame   0x00000000       0x28 CMakeFiles/untitled.elf.dir/Core/Src/sysmem.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/untitled.elf.dir/Core/Src/sysmem.c.obj
+ .text          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .data          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/untitled.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .text.SystemCoreClockUpdate
+                0x00000000       0xa0 CMakeFiles/untitled.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .rodata.APBPrescTable
+                0x00000000        0x8 CMakeFiles/untitled.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .text          0x00000000       0x14 CMakeFiles/untitled.elf.dir/Core/Startup/startup_stm32f407zgtx.s.obj
+ .data          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Core/Startup/startup_stm32f407zgtx.s.obj
+ .bss           0x00000000        0x0 CMakeFiles/untitled.elf.dir/Core/Startup/startup_stm32f407zgtx.s.obj
+ .text          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .data          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_MspInit
+                0x00000000        0x2 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_MspDeInit
+                0x00000000        0x2 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DeInit
+                0x00000000       0x3c CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetTickPrio
+                0x00000000        0xc CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_SetTickFreq
+                0x00000000       0x2c CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetTickFreq
+                0x00000000        0xc CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_SuspendTick
+                0x00000000        0xe CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_ResumeTick
+                0x00000000        0xe CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetHalVersion
+                0x00000000        0x8 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetREVID
+                0x00000000        0xc CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetDEVID
+                0x00000000       0x10 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x00000000       0x10 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x00000000       0x10 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x00000000       0x10 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x00000000       0x10 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x00000000       0x10 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x00000000       0x10 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_EnableCompensationCell
+                0x00000000       0x10 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DisableCompensationCell
+                0x00000000       0x10 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetUIDw0
+                0x00000000        0xc CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetUIDw1
+                0x00000000        0xc CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetUIDw2
+                0x00000000        0xc CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_EnableIRQ
+                0x00000000       0x1c CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_DisableIRQ
+                0x00000000       0x24 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SystemReset
+                0x00000000       0x24 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_MPU_Disable
+                0x00000000       0x1c CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_MPU_Enable
+                0x00000000       0x20 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_MPU_ConfigRegion
+                0x00000000       0x60 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_CORTEX_ClearEvent
+                0x00000000        0x6 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x00000000       0x10 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriority
+                0x00000000       0x60 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SetPendingIRQ
+                0x00000000       0x1c CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPendingIRQ
+                0x00000000       0x24 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x00000000       0x1c CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetActive
+                0x00000000       0x24 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x00000000       0x20 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_Callback
+                0x00000000        0x2 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_IRQHandler
+                0x00000000        0x8 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .data          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.DMA_SetConfig
+                0x00000000       0x2c CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.DMA_CalcBaseAndBitshift
+                0x00000000       0x44 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.DMA_CheckFifoParam
+                0x00000000       0x8e CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_Init
+                0x00000000       0xcc CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_DeInit
+                0x00000000       0x64 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_Start
+                0x00000000       0x48 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_Start_IT
+                0x00000000       0x6a CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort
+                0x00000000       0x94 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort_IT
+                0x00000000       0x26 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_PollForTransfer
+                0x00000000      0x128 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_IRQHandler
+                0x00000000      0x1dc CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_RegisterCallback
+                0x00000000       0x5a CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_UnRegisterCallback
+                0x00000000       0x6e CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_GetState
+                0x00000000        0x6 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_GetError
+                0x00000000        0x4 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .rodata.flagBitshiftOffset.0
+                0x00000000        0x8 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_info    0x00000000      0xad9 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_abbrev  0x00000000      0x2c0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_loclists
+                0x00000000      0x763 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_aranges
+                0x00000000       0x90 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_rnglists
+                0x00000000       0x6c CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_line    0x00000000      0xe1d CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_str     0x00000000      0x78b CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .comment       0x00000000       0x58 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_frame   0x00000000      0x188 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .text.DMA_MultiBufferSetConfig
+                0x00000000       0x24 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_MultiBufferStart
+                0x00000000       0x5e CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_MultiBufferStart_IT
+                0x00000000      0xf00 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_ChangeMemory
+                0x00000000       0x10 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_info    0x00000000      0x549 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_abbrev  0x00000000      0x1c4 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_loclists
+                0x00000000      0x296 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_aranges
+                0x00000000       0x38 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_rnglists
+                0x00000000       0x26 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_line    0x00000000      0x9d6 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_str     0x00000000      0x55e CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .comment       0x00000000       0x58 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_frame   0x00000000       0x74 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .data          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_SetConfigLine
+                0x00000000       0xd8 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetConfigLine
+                0x00000000       0xa8 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearConfigLine
+                0x00000000       0x84 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_RegisterCallback
+                0x00000000        0xe CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetHandle
+                0x00000000        0xc CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_IRQHandler
+                0x00000000       0x24 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetPending
+                0x00000000       0x18 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearPending
+                0x00000000       0x14 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_GenerateSWI
+                0x00000000       0x14 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_info    0x00000000      0x563 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_abbrev  0x00000000      0x1f5 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_loclists
+                0x00000000      0x2c4 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_aranges
+                0x00000000       0x60 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_rnglists
+                0x00000000       0x46 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_line    0x00000000      0x5c9 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_str     0x00000000      0x3f6 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .comment       0x00000000       0x58 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_frame   0x00000000       0xe8 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .data          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_Program_DoubleWord
+                0x00000000       0x30 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_Program_Word
+                0x00000000       0x24 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_Program_HalfWord
+                0x00000000       0x24 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_Program_Byte
+                0x00000000       0x20 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_SetErrorCode
+                0x00000000       0x8c CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program_IT
+                0x00000000       0x68 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_EndOfOperationCallback
+                0x00000000        0x2 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_OperationErrorCallback
+                0x00000000        0x2 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_IRQHandler
+                0x00000000       0xf4 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_Unlock
+                0x00000000       0x30 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_Lock
+                0x00000000       0x14 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Unlock
+                0x00000000       0x28 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Lock
+                0x00000000       0x14 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_GetError
+                0x00000000        0xc CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_WaitForLastOperation
+                0x00000000       0x60 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program
+                0x00000000       0x7c CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Launch
+                0x00000000       0x1c CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .bss.pFlash    0x00000000       0x20 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_info    0x00000000      0x70c CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_abbrev  0x00000000      0x28f CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_loclists
+                0x00000000      0x262 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_aranges
+                0x00000000       0xa0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_rnglists
+                0x00000000       0x75 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_line    0x00000000      0x758 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_str     0x00000000      0x55f CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .comment       0x00000000       0x58 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_frame   0x00000000      0x168 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_MassErase
+                0x00000000       0x24 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_BOR_LevelConfig
+                0x00000000       0x18 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetUser
+                0x00000000       0x10 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetWRP
+                0x00000000        0xc CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetRDP
+                0x00000000       0x1c CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetBOR
+                0x00000000       0x10 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_EnableWRP
+                0x00000000       0x20 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_DisableWRP
+                0x00000000       0x20 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_RDP_LevelConfig
+                0x00000000       0x18 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_UserConfig
+                0x00000000       0x2c CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBProgram
+                0x00000000       0x84 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetConfig
+                0x00000000       0x22 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_Erase_Sector
+                0x00000000       0x4c CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase_IT
+                0x00000000       0x6c CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_FlushCaches
+                0x00000000       0x60 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase
+                0x00000000       0x94 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_info    0x00000000      0x802 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_abbrev  0x00000000      0x268 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_loclists
+                0x00000000      0x35e CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_aranges
+                0x00000000       0x98 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_rnglists
+                0x00000000       0x6f CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_line    0x00000000      0x6b5 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_str     0x00000000      0x5af CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .comment       0x00000000       0x58 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_frame   0x00000000      0x164 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .debug_info    0x00000000       0x6c CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .debug_str     0x00000000      0x1cf CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .comment       0x00000000       0x58 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_DeInit
+                0x00000000      0x134 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_ReadPin
+                0x00000000        0xe CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_TogglePin
+                0x00000000       0x12 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_LockPin
+                0x00000000       0x2e CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_Callback
+                0x00000000        0x2 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x00000000       0x1c CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .data          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DeInit
+                0x00000000       0x18 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableBkUpAccess
+                0x00000000       0x1c CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableBkUpAccess
+                0x00000000       0x1c CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_ConfigPVD
+                0x00000000       0x84 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnablePVD
+                0x00000000        0xc CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisablePVD
+                0x00000000        0xc CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableWakeUpPin
+                0x00000000       0x10 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableWakeUpPin
+                0x00000000       0x10 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSLEEPMode
+                0x00000000       0x24 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTOPMode
+                0x00000000       0x3c CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTANDBYMode
+                0x00000000       0x20 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVDCallback
+                0x00000000        0x2 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVD_IRQHandler
+                0x00000000       0x20 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSleepOnExit
+                0x00000000       0x10 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSleepOnExit
+                0x00000000       0x10 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSEVOnPend
+                0x00000000       0x10 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSEVOnPend
+                0x00000000       0x10 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_info    0x00000000      0x6fa CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_abbrev  0x00000000      0x18a CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_aranges
+                0x00000000       0xa0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_rnglists
+                0x00000000       0x74 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_line    0x00000000      0x40a CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_str     0x00000000      0x556 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .comment       0x00000000       0x58 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_frame   0x00000000      0x138 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableBkUpReg
+                0x00000000       0x38 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableBkUpReg
+                0x00000000       0x38 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableFlashPowerDown
+                0x00000000        0xc CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableFlashPowerDown
+                0x00000000        0xc CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_GetVoltageRange
+                0x00000000       0x10 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_ControlVoltageScaling
+                0x00000000       0x64 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_info    0x00000000      0x3e8 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_abbrev  0x00000000      0x198 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_loclists
+                0x00000000       0x77 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_aranges
+                0x00000000       0x48 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_rnglists
+                0x00000000       0x31 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_line    0x00000000      0x2d5 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_str     0x00000000      0x407 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .comment       0x00000000       0x58 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_frame   0x00000000       0x90 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_DeInit
+                0x00000000        0x4 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_MCOConfig
+                0x00000000       0x9c CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_EnableCSS
+                0x00000000        0xc CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_DisableCSS
+                0x00000000        0xc CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetHCLKFreq
+                0x00000000        0xc CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPCLK1Freq
+                0x00000000       0x20 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPCLK2Freq
+                0x00000000       0x20 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetOscConfig
+                0x00000000       0xcc CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetClockConfig
+                0x00000000       0x3c CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_CSSCallback
+                0x00000000        0x2 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_NMI_IRQHandler
+                0x00000000       0x20 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x00000000      0x154 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x00000000       0x30 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKFreq
+                0x00000000       0x70 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_EnablePLLI2S
+                0x00000000       0x68 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_DisablePLLI2S
+                0x00000000       0x34 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCC_DeInit
+                0x00000000      0x13c CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_info    0x00000000      0x655 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_abbrev  0x00000000      0x1c3 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_loclists
+                0x00000000      0x249 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_aranges
+                0x00000000       0x48 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_rnglists
+                0x00000000       0x33 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_line    0x00000000      0x5d9 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_str     0x00000000      0x4dc CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .comment       0x00000000       0x58 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_frame   0x00000000       0xa4 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .data          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_info    0x00000000       0x6c CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_str     0x00000000      0x1c5 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .comment       0x00000000       0x58 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_info    0x00000000       0x6c CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_str     0x00000000      0x1c8 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .comment       0x00000000       0x58 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .data          0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .text          0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.extab.text.__udivmoddi4
+                0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-errno.o)
+ .data          0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-errno.o)
+ .text.__errno  0x00000000        0xc c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-errno.o)
+ .debug_info    0x00000000      0x8a9 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-errno.o)
+ .debug_abbrev  0x00000000      0x1ce c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-errno.o)
+ .debug_aranges
+                0x00000000       0x20 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-errno.o)
+ .debug_rnglists
+                0x00000000       0x13 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-errno.o)
+ .debug_line    0x00000000      0x180 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-errno.o)
+ .debug_str     0x00000000      0x5d6 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-errno.o)
+ .comment       0x00000000       0x58 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-errno.o)
+ .debug_frame   0x00000000       0x20 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-errno.o)
+ .text          0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-exit.o)
+ .debug_info    0x00000000      0x90c c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-exit.o)
+ .debug_abbrev  0x00000000      0x22d c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-exit.o)
+ .debug_loclists
+                0x00000000       0x20 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-exit.o)
+ .debug_aranges
+                0x00000000       0x20 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-exit.o)
+ .debug_rnglists
+                0x00000000       0x13 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-exit.o)
+ .debug_line    0x00000000      0x20d c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-exit.o)
+ .debug_str     0x00000000      0x5f7 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-exit.o)
+ .comment       0x00000000       0x58 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000      0x428 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-impure.o)
+ .debug_info    0x00000000      0x8be c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-impure.o)
+ .debug_abbrev  0x00000000      0x1ca c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-impure.o)
+ .debug_aranges
+                0x00000000       0x18 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-impure.o)
+ .debug_line    0x00000000      0x15b c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-impure.o)
+ .debug_str     0x00000000      0x5ee c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-impure.o)
+ .comment       0x00000000       0x58 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xb8 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-__call_atexit.o)
+ .debug_info    0x00000000      0x980 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x00000000      0x255 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-__call_atexit.o)
+ .debug_loclists
+                0x00000000      0x12a c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x00000000       0x20 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-__call_atexit.o)
+ .debug_rnglists
+                0x00000000       0x2f c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-__call_atexit.o)
+ .debug_line    0x00000000      0x298 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-__call_atexit.o)
+ .debug_str     0x00000000      0x621 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-__call_atexit.o)
+ .comment       0x00000000       0x58 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000000       0x4c c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .eh_frame      0x00000000        0x4 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtn.o
+ .data          0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtn.o
+ .bss           0x00000000        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+CCMRAM           0x10000000         0x00010000         xrw
+RAM              0x20000000         0x00020000         xrw
+FLASH            0x08000000         0x00100000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crti.o
+LOAD c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crt0.o
+LOAD CMakeFiles/untitled.elf.dir/Core/Src/gpio.c.obj
+LOAD CMakeFiles/untitled.elf.dir/Core/Src/main.c.obj
+LOAD CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+LOAD CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_it.c.obj
+LOAD CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj
+LOAD CMakeFiles/untitled.elf.dir/Core/Src/sysmem.c.obj
+LOAD CMakeFiles/untitled.elf.dir/Core/Src/system_stm32f4xx.c.obj
+LOAD CMakeFiles/untitled.elf.dir/Core/Startup/startup_stm32f407zgtx.s.obj
+LOAD CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+LOAD CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+LOAD CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+LOAD CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+LOAD CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+LOAD CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+LOAD CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+LOAD CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+LOAD CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+LOAD CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+LOAD CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+LOAD CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+LOAD CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+LOAD CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+LOAD CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+START GROUP
+LOAD c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a
+LOAD c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libc.a
+END GROUP
+LOAD c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtend.o
+LOAD c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtn.o
+                0x20020000                _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x00000200                _Min_Heap_Size = 0x200
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x188
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x188 CMakeFiles/untitled.elf.dir/Core/Startup/startup_stm32f407zgtx.s.obj
+                0x08000000                g_pfnVectors
+                0x08000188                . = ALIGN (0x4)
+
+.text           0x08000188     0x1048
+                0x08000188                . = ALIGN (0x4)
+ *(.text)
+ .text          0x08000188       0x30 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+                0x08000188                __aeabi_uldivmod
+ .text          0x080001b8        0x4 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+                0x080001b8                __aeabi_idiv0
+                0x080001b8                __aeabi_ldiv0
+ *(.text*)
+ .text.deregister_tm_clones
+                0x080001bc       0x1c c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text.register_tm_clones
+                0x080001d8       0x24 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text.__do_global_dtors_aux
+                0x080001fc       0x28 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text.frame_dummy
+                0x08000224       0x24 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text.MX_GPIO_Init
+                0x08000248       0x68 CMakeFiles/untitled.elf.dir/Core/Src/gpio.c.obj
+                0x08000248                MX_GPIO_Init
+ .text.Error_Handler
+                0x080002b0        0x4 CMakeFiles/untitled.elf.dir/Core/Src/main.c.obj
+                0x080002b0                Error_Handler
+ .text.SystemClock_Config
+                0x080002b4       0xa8 CMakeFiles/untitled.elf.dir/Core/Src/main.c.obj
+                0x080002b4                SystemClock_Config
+ .text.main     0x0800035c       0x3c CMakeFiles/untitled.elf.dir/Core/Src/main.c.obj
+                0x0800035c                main
+ .text.HAL_MspInit
+                0x08000398       0x38 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+                0x08000398                HAL_MspInit
+ .text.NMI_Handler
+                0x080003d0        0x2 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x080003d0                NMI_Handler
+ .text.HardFault_Handler
+                0x080003d2        0x2 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x080003d2                HardFault_Handler
+ .text.MemManage_Handler
+                0x080003d4        0x2 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x080003d4                MemManage_Handler
+ .text.BusFault_Handler
+                0x080003d6        0x2 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x080003d6                BusFault_Handler
+ .text.UsageFault_Handler
+                0x080003d8        0x2 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x080003d8                UsageFault_Handler
+ .text.SVC_Handler
+                0x080003da        0x2 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x080003da                SVC_Handler
+ .text.DebugMon_Handler
+                0x080003dc        0x2 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x080003dc                DebugMon_Handler
+ .text.PendSV_Handler
+                0x080003de        0x2 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x080003de                PendSV_Handler
+ .text.SysTick_Handler
+                0x080003e0        0x8 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x080003e0                SysTick_Handler
+ .text.SystemInit
+                0x080003e8       0x14 CMakeFiles/untitled.elf.dir/Core/Src/system_stm32f4xx.c.obj
+                0x080003e8                SystemInit
+ .text.Reset_Handler
+                0x080003fc       0x50 CMakeFiles/untitled.elf.dir/Core/Startup/startup_stm32f407zgtx.s.obj
+                0x080003fc                Reset_Handler
+ .text.Default_Handler
+                0x0800044c        0x2 CMakeFiles/untitled.elf.dir/Core/Startup/startup_stm32f407zgtx.s.obj
+                0x0800044c                RTC_Alarm_IRQHandler
+                0x0800044c                HASH_RNG_IRQHandler
+                0x0800044c                EXTI2_IRQHandler
+                0x0800044c                TIM8_CC_IRQHandler
+                0x0800044c                TIM1_CC_IRQHandler
+                0x0800044c                DMA2_Stream5_IRQHandler
+                0x0800044c                DMA1_Stream5_IRQHandler
+                0x0800044c                PVD_IRQHandler
+                0x0800044c                SDIO_IRQHandler
+                0x0800044c                TAMP_STAMP_IRQHandler
+                0x0800044c                CAN2_RX1_IRQHandler
+                0x0800044c                EXTI3_IRQHandler
+                0x0800044c                TIM8_TRG_COM_TIM14_IRQHandler
+                0x0800044c                TIM1_UP_TIM10_IRQHandler
+                0x0800044c                TIM8_UP_TIM13_IRQHandler
+                0x0800044c                I2C3_ER_IRQHandler
+                0x0800044c                EXTI0_IRQHandler
+                0x0800044c                I2C2_EV_IRQHandler
+                0x0800044c                DMA1_Stream2_IRQHandler
+                0x0800044c                CAN1_RX0_IRQHandler
+                0x0800044c                FPU_IRQHandler
+                0x0800044c                OTG_HS_WKUP_IRQHandler
+                0x0800044c                CAN2_SCE_IRQHandler
+                0x0800044c                DMA2_Stream2_IRQHandler
+                0x0800044c                SPI1_IRQHandler
+                0x0800044c                TIM6_DAC_IRQHandler
+                0x0800044c                TIM1_BRK_TIM9_IRQHandler
+                0x0800044c                DCMI_IRQHandler
+                0x0800044c                CAN2_RX0_IRQHandler
+                0x0800044c                DMA2_Stream3_IRQHandler
+                0x0800044c                USART6_IRQHandler
+                0x0800044c                USART3_IRQHandler
+                0x0800044c                CAN1_RX1_IRQHandler
+                0x0800044c                UART5_IRQHandler
+                0x0800044c                DMA2_Stream0_IRQHandler
+                0x0800044c                TIM4_IRQHandler
+                0x0800044c                I2C1_EV_IRQHandler
+                0x0800044c                DMA1_Stream6_IRQHandler
+                0x0800044c                DMA1_Stream1_IRQHandler
+                0x0800044c                UART4_IRQHandler
+                0x0800044c                TIM3_IRQHandler
+                0x0800044c                RCC_IRQHandler
+                0x0800044c                TIM8_BRK_TIM12_IRQHandler
+                0x0800044c                Default_Handler
+                0x0800044c                EXTI15_10_IRQHandler
+                0x0800044c                ADC_IRQHandler
+                0x0800044c                DMA1_Stream7_IRQHandler
+                0x0800044c                TIM7_IRQHandler
+                0x0800044c                CAN2_TX_IRQHandler
+                0x0800044c                TIM5_IRQHandler
+                0x0800044c                DMA2_Stream7_IRQHandler
+                0x0800044c                I2C3_EV_IRQHandler
+                0x0800044c                EXTI9_5_IRQHandler
+                0x0800044c                RTC_WKUP_IRQHandler
+                0x0800044c                ETH_WKUP_IRQHandler
+                0x0800044c                SPI2_IRQHandler
+                0x0800044c                OTG_HS_EP1_IN_IRQHandler
+                0x0800044c                DMA1_Stream0_IRQHandler
+                0x0800044c                CAN1_TX_IRQHandler
+                0x0800044c                EXTI4_IRQHandler
+                0x0800044c                FSMC_IRQHandler
+                0x0800044c                ETH_IRQHandler
+                0x0800044c                OTG_HS_EP1_OUT_IRQHandler
+                0x0800044c                WWDG_IRQHandler
+                0x0800044c                TIM2_IRQHandler
+                0x0800044c                OTG_FS_WKUP_IRQHandler
+                0x0800044c                TIM1_TRG_COM_TIM11_IRQHandler
+                0x0800044c                OTG_HS_IRQHandler
+                0x0800044c                EXTI1_IRQHandler
+                0x0800044c                USART2_IRQHandler
+                0x0800044c                I2C2_ER_IRQHandler
+                0x0800044c                DMA2_Stream1_IRQHandler
+                0x0800044c                CAN1_SCE_IRQHandler
+                0x0800044c                FLASH_IRQHandler
+                0x0800044c                DMA2_Stream4_IRQHandler
+                0x0800044c                USART1_IRQHandler
+                0x0800044c                OTG_FS_IRQHandler
+                0x0800044c                SPI3_IRQHandler
+                0x0800044c                DMA1_Stream4_IRQHandler
+                0x0800044c                I2C1_ER_IRQHandler
+                0x0800044c                DMA2_Stream6_IRQHandler
+                0x0800044c                DMA1_Stream3_IRQHandler
+ *fill*         0x0800044e        0x2 
+ .text.HAL_InitTick
+                0x08000450       0x4c CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x08000450                HAL_InitTick
+ .text.HAL_Init
+                0x0800049c       0x34 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x0800049c                HAL_Init
+ .text.HAL_IncTick
+                0x080004d0       0x18 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x080004d0                HAL_IncTick
+ .text.HAL_GetTick
+                0x080004e8        0xc CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x080004e8                HAL_GetTick
+ .text.HAL_Delay
+                0x080004f4       0x28 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x080004f4                HAL_Delay
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x0800051c       0x24 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x0800051c                HAL_NVIC_SetPriorityGrouping
+ .text.HAL_NVIC_SetPriority
+                0x08000540       0x70 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x08000540                HAL_NVIC_SetPriority
+ .text.HAL_SYSTICK_Config
+                0x080005b0       0x28 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x080005b0                HAL_SYSTICK_Config
+ .text.HAL_GPIO_Init
+                0x080005d8      0x1ec CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                0x080005d8                HAL_GPIO_Init
+ .text.HAL_GPIO_WritePin
+                0x080007c4        0xc CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                0x080007c4                HAL_GPIO_WritePin
+ .text.HAL_RCC_OscConfig
+                0x080007d0      0x3f8 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x080007d0                HAL_RCC_OscConfig
+ .text.HAL_RCC_GetSysClockFreq
+                0x08000bc8       0xdc CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x08000bc8                HAL_RCC_GetSysClockFreq
+ .text.HAL_RCC_ClockConfig
+                0x08000ca4      0x160 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x08000ca4                HAL_RCC_ClockConfig
+ .text.__udivmoddi4
+                0x08000e04      0x2c8 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                0x08000e04                __udivmoddi4
+ .text.__libc_init_array
+                0x080010cc       0x48 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-init.o)
+                0x080010cc                __libc_init_array
+ .text.memset   0x08001114       0xa4 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-memset.o)
+                0x08001114                memset
+ *(.glue_7)
+ .glue_7        0x080011b8        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x080011b8        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x080011b8        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.init)
+ .init          0x080011b8        0x4 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crti.o
+                0x080011b8                _init
+ .init          0x080011bc        0x8 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x080011c4        0x4 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crti.o
+                0x080011c4                _fini
+ .fini          0x080011c8        0x8 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtn.o
+                0x080011d0                . = ALIGN (0x4)
+                0x080011d0                _etext = .
+
+.vfp11_veneer   0x080011d0        0x0
+ .vfp11_veneer  0x080011d0        0x0 linker stubs
+
+.v4_bx          0x080011d0        0x0
+ .v4_bx         0x080011d0        0x0 linker stubs
+
+.iplt           0x080011d0        0x0
+ .iplt          0x080011d0        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.rodata         0x080011d0       0x10
+                0x080011d0                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.AHBPrescTable
+                0x080011d0       0x10 CMakeFiles/untitled.elf.dir/Core/Src/system_stm32f4xx.c.obj
+                0x080011d0                AHBPrescTable
+                0x080011e0                . = ALIGN (0x4)
+
+.ARM.extab      0x080011e0        0x0
+                0x080011e0                . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x080011e0                . = ALIGN (0x4)
+
+.ARM            0x080011e0        0x8
+                0x080011e0                . = ALIGN (0x4)
+                0x080011e0                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx.text.__udivmoddi4
+                0x080011e0        0x8 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                0x080011e8                __exidx_end = .
+                0x080011e8                . = ALIGN (0x4)
+
+.rel.dyn        0x080011e8        0x0
+ .rel.iplt      0x080011e8        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.preinit_array  0x080011e8        0x0
+                0x080011e8                . = ALIGN (0x4)
+                0x080011e8                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x080011e8                PROVIDE (__preinit_array_end = .)
+                0x080011e8                . = ALIGN (0x4)
+
+.init_array     0x080011e8        0x4
+                0x080011e8                . = ALIGN (0x4)
+                0x080011e8                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x080011e8        0x4 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x080011ec                PROVIDE (__init_array_end = .)
+                0x080011ec                . = ALIGN (0x4)
+
+.fini_array     0x080011ec        0x4
+                0x080011ec                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x080011ec        0x4 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                [!provide]                PROVIDE (__fini_array_end = .)
+                0x080011f0                . = ALIGN (0x4)
+                0x080011f0                _sidata = LOADADDR (.data)
+
+.data           0x20000000        0xc load address 0x080011f0
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.SystemCoreClock
+                0x20000000        0x4 CMakeFiles/untitled.elf.dir/Core/Src/system_stm32f4xx.c.obj
+                0x20000000                SystemCoreClock
+ .data.uwTickFreq
+                0x20000004        0x1 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x20000004                uwTickFreq
+ *fill*         0x20000005        0x3 
+ .data.uwTickPrio
+                0x20000008        0x4 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x20000008                uwTickPrio
+ *(.RamFunc)
+ *(.RamFunc*)
+                0x2000000c                . = ALIGN (0x4)
+                0x2000000c                _edata = .
+                0x080011fc                _siccmram = LOADADDR (.ccmram)
+
+.tm_clone_table
+                0x2000000c        0x0 load address 0x080011fc
+ .tm_clone_table
+                0x2000000c        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .tm_clone_table
+                0x2000000c        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtend.o
+
+.igot.plt       0x2000000c        0x0 load address 0x080011fc
+ .igot.plt      0x2000000c        0x0 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.ccmram         0x10000000        0x0 load address 0x080011fc
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _sccmram = .
+ *(.ccmram)
+ *(.ccmram*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _eccmram = .
+                0x10000000                . = ALIGN (0x4)
+
+.bss            0x2000000c       0x20
+                0x2000000c                _sbss = .
+                0x2000000c                __bss_start__ = _sbss
+ *(.bss)
+ *(.bss*)
+ .bss.completed.1
+                0x2000000c        0x1 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *fill*         0x2000000d        0x3 
+ .bss.object.0  0x20000010       0x18 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .bss.uwTick    0x20000028        0x4 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x20000028                uwTick
+ *(COMMON)
+                0x2000002c                . = ALIGN (0x4)
+                0x2000002c                _ebss = .
+                0x2000002c                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x2000002c      0x604
+                0x20000030                . = ALIGN (0x8)
+ *fill*         0x2000002c        0x4 
+                [!provide]                PROVIDE (end = .)
+                0x20000030                PROVIDE (_end = .)
+                0x20000230                . = (. + _Min_Heap_Size)
+ *fill*         0x20000030      0x200 
+                0x20000630                . = (. + _Min_Stack_Size)
+ *fill*         0x20000230      0x400 
+                0x20000630                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x0000001e       0x34 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x00000052       0x34 CMakeFiles/untitled.elf.dir/Core/Src/gpio.c.obj
+ .ARM.attributes
+                0x00000086       0x34 CMakeFiles/untitled.elf.dir/Core/Src/main.c.obj
+ .ARM.attributes
+                0x000000ba       0x34 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .ARM.attributes
+                0x000000ee       0x34 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .ARM.attributes
+                0x00000122       0x34 CMakeFiles/untitled.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .ARM.attributes
+                0x00000156       0x21 CMakeFiles/untitled.elf.dir/Core/Startup/startup_stm32f407zgtx.s.obj
+ .ARM.attributes
+                0x00000177       0x34 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .ARM.attributes
+                0x000001ab       0x34 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .ARM.attributes
+                0x000001df       0x34 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .ARM.attributes
+                0x00000213       0x34 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .ARM.attributes
+                0x00000247       0x1e c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000265       0x34 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000299       0x1e c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000002b7       0x34 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x000002eb       0x34 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000031f       0x34 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .ARM.attributes
+                0x00000353       0x1e c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtn.o
+OUTPUT(untitled.elf elf32-littlearm)
+LOAD linker stubs
+LOAD c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libc.a
+LOAD c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a
+
+.comment        0x00000000       0x57
+ .comment       0x00000000       0x57 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                                 0x58 (size before relaxing)
+ .comment       0x00000057       0x58 CMakeFiles/untitled.elf.dir/Core/Src/gpio.c.obj
+ .comment       0x00000057       0x58 CMakeFiles/untitled.elf.dir/Core/Src/main.c.obj
+ .comment       0x00000057       0x58 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .comment       0x00000057       0x58 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .comment       0x00000057       0x58 CMakeFiles/untitled.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .comment       0x00000057       0x58 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .comment       0x00000057       0x58 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .comment       0x00000057       0x58 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .comment       0x00000057       0x58 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .comment       0x00000057       0x58 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .comment       0x00000057       0x58 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-init.o)
+ .comment       0x00000057       0x58 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-memset.o)
+ .comment       0x00000057       0x58 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard/crtend.o
+
+.debug_info     0x00000000     0x47ce
+ .debug_info    0x00000000      0x407 CMakeFiles/untitled.elf.dir/Core/Src/gpio.c.obj
+ .debug_info    0x00000407      0x698 CMakeFiles/untitled.elf.dir/Core/Src/main.c.obj
+ .debug_info    0x00000a9f      0x265 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_info    0x00000d04      0x11c CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_info    0x00000e20      0x527 CMakeFiles/untitled.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_info    0x00001347       0x23 CMakeFiles/untitled.elf.dir/Core/Startup/startup_stm32f407zgtx.s.obj
+ .debug_info    0x0000136a      0x9e2 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_info    0x00001d4c      0xfa4 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_info    0x00002cf0      0x704 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_info    0x000033f4      0xa6f CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_info    0x00003e63       0x24 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_info    0x00003e87      0x6e3 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_info    0x0000456a       0x24 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .debug_info    0x0000458e      0x10b c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-init.o)
+ .debug_info    0x00004699      0x135 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-memset.o)
+
+.debug_abbrev   0x00000000     0x1381
+ .debug_abbrev  0x00000000      0x164 CMakeFiles/untitled.elf.dir/Core/Src/gpio.c.obj
+ .debug_abbrev  0x00000164      0x20a CMakeFiles/untitled.elf.dir/Core/Src/main.c.obj
+ .debug_abbrev  0x0000036e       0xd6 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_abbrev  0x00000444       0x7c CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_abbrev  0x000004c0      0x11e CMakeFiles/untitled.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_abbrev  0x000005de       0x12 CMakeFiles/untitled.elf.dir/Core/Startup/startup_stm32f407zgtx.s.obj
+ .debug_abbrev  0x000005f0      0x240 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_abbrev  0x00000830      0x377 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_abbrev  0x00000ba7      0x202 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_abbrev  0x00000da9      0x2c6 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_abbrev  0x0000106f       0x14 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_abbrev  0x00001083      0x16a c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_abbrev  0x000011ed       0x14 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .debug_abbrev  0x00001201       0xc9 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-init.o)
+ .debug_abbrev  0x000012ca       0xb7 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-memset.o)
+
+.debug_aranges  0x00000000      0x440
+ .debug_aranges
+                0x00000000       0x20 CMakeFiles/untitled.elf.dir/Core/Src/gpio.c.obj
+ .debug_aranges
+                0x00000020       0x30 CMakeFiles/untitled.elf.dir/Core/Src/main.c.obj
+ .debug_aranges
+                0x00000050       0x20 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_aranges
+                0x00000070       0x60 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_aranges
+                0x000000d0       0x28 CMakeFiles/untitled.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_aranges
+                0x000000f8       0x28 CMakeFiles/untitled.elf.dir/Core/Startup/startup_stm32f407zgtx.s.obj
+ .debug_aranges
+                0x00000120       0xf0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_aranges
+                0x00000210       0xb0 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_aranges
+                0x000002c0       0x58 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_aranges
+                0x00000318       0x88 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_aranges
+                0x000003a0       0x20 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_aranges
+                0x000003c0       0x20 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_aranges
+                0x000003e0       0x20 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .debug_aranges
+                0x00000400       0x20 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-init.o)
+ .debug_aranges
+                0x00000420       0x20 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-memset.o)
+
+.debug_rnglists
+                0x00000000      0x387
+ .debug_rnglists
+                0x00000000       0x13 CMakeFiles/untitled.elf.dir/Core/Src/gpio.c.obj
+ .debug_rnglists
+                0x00000013       0x20 CMakeFiles/untitled.elf.dir/Core/Src/main.c.obj
+ .debug_rnglists
+                0x00000033       0x13 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_rnglists
+                0x00000046       0x43 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_rnglists
+                0x00000089       0x1a CMakeFiles/untitled.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_rnglists
+                0x000000a3       0x19 CMakeFiles/untitled.elf.dir/Core/Startup/startup_stm32f407zgtx.s.obj
+ .debug_rnglists
+                0x000000bc       0xaf CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_rnglists
+                0x0000016b       0xaf CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_rnglists
+                0x0000021a       0x3f CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_rnglists
+                0x00000259       0x75 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_rnglists
+                0x000002ce       0x92 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_rnglists
+                0x00000360       0x13 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-init.o)
+ .debug_rnglists
+                0x00000373       0x14 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-memset.o)
+
+.debug_line     0x00000000     0x3333
+ .debug_line    0x00000000      0x1a4 CMakeFiles/untitled.elf.dir/Core/Src/gpio.c.obj
+ .debug_line    0x000001a4      0x336 CMakeFiles/untitled.elf.dir/Core/Src/main.c.obj
+ .debug_line    0x000004da      0x143 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_line    0x0000061d      0x191 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_line    0x000007ae      0x244 CMakeFiles/untitled.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_line    0x000009f2       0x7a CMakeFiles/untitled.elf.dir/Core/Startup/startup_stm32f407zgtx.s.obj
+ .debug_line    0x00000a6c      0x565 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_line    0x00000fd1      0x790 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_line    0x00001761      0x69e CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_line    0x00001dff      0xafc CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_line    0x000028fb       0x4e c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_line    0x00002949      0x5e5 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_line    0x00002f2e       0x4a c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .debug_line    0x00002f78      0x17e c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-init.o)
+ .debug_line    0x000030f6      0x23d c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-memset.o)
+
+.debug_str      0x00000000     0x1fda
+ .debug_str     0x00000000      0x33f CMakeFiles/untitled.elf.dir/Core/Src/gpio.c.obj
+                                0x38f (size before relaxing)
+ .debug_str     0x0000033f      0x1f1 CMakeFiles/untitled.elf.dir/Core/Src/main.c.obj
+                                0x52f (size before relaxing)
+ .debug_str     0x00000530       0x35 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+                                0x2d0 (size before relaxing)
+ .debug_str     0x00000565       0xc0 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                                0x244 (size before relaxing)
+ .debug_str     0x00000625       0xe4 CMakeFiles/untitled.elf.dir/Core/Src/system_stm32f4xx.c.obj
+                                0x38a (size before relaxing)
+ .debug_str     0x00000709       0x24 CMakeFiles/untitled.elf.dir/Core/Startup/startup_stm32f407zgtx.s.obj
+                                 0x48 (size before relaxing)
+ .debug_str     0x0000072d      0x85b CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                                0xb79 (size before relaxing)
+ .debug_str     0x00000f88      0x47b CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                                0xc58 (size before relaxing)
+ .debug_str     0x00001403      0x133 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                                0x4f5 (size before relaxing)
+ .debug_str     0x00001536      0x1ad CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                                0x71b (size before relaxing)
+ .debug_str     0x000016e3       0x82 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+                                 0x8e (size before relaxing)
+ .debug_str     0x00001765      0x595 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                                0x6a4 (size before relaxing)
+ .debug_str     0x00001cfa        0xc c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+                                 0x92 (size before relaxing)
+ .debug_str     0x00001d06      0x1dd c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-init.o)
+                                0x272 (size before relaxing)
+ .debug_str     0x00001ee3       0xf7 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-memset.o)
+                                0x227 (size before relaxing)
+
+.debug_frame    0x00000000      0x7c8
+ .debug_frame   0x00000000       0x30 CMakeFiles/untitled.elf.dir/Core/Src/gpio.c.obj
+ .debug_frame   0x00000030       0x58 CMakeFiles/untitled.elf.dir/Core/Src/main.c.obj
+ .debug_frame   0x00000088       0x28 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_frame   0x000000b0       0xa8 CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_frame   0x00000158       0x30 CMakeFiles/untitled.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_frame   0x00000188      0x1ec CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_frame   0x00000374      0x158 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_frame   0x000004cc       0xd8 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_frame   0x000005a4      0x16c CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_frame   0x00000710       0x2c c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x0000073c       0x34 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00000770       0x2c c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-init.o)
+ .debug_frame   0x0000079c       0x2c c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-memset.o)
+
+.debug_loclists
+                0x00000000     0x1aac
+ .debug_loclists
+                0x00000000       0xdb CMakeFiles/untitled.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_loclists
+                0x000000db       0xc9 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_loclists
+                0x000001a4      0x4db CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_loclists
+                0x0000067f      0x356 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_loclists
+                0x000009d5      0x3a9 CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_loclists
+                0x00000d7e      0xb0f c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_loclists
+                0x0000188d       0x7a c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-init.o)
+ .debug_loclists
+                0x00001907      0x1a5 c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libg.a(lib_a-memset.o)
+
+.debug_line_str
+                0x00000000       0x8c
+ .debug_line_str
+                0x00000000       0x31 CMakeFiles/untitled.elf.dir/Core/Startup/startup_stm32f407zgtx.s.obj
+                                 0x62 (size before relaxing)
+ .debug_line_str
+                0x00000031       0x4f c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+                                 0x9e (size before relaxing)
+ .debug_line_str
+                0x00000080        0xc c:/users/lalal/112202~1.02/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+                                 0xa6 (size before relaxing)
