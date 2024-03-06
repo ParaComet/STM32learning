@@ -18,6 +18,7 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
+#include "tim.h"
 #include "gpio.h"
 
 /* Private includes ----------------------------------------------------------*/
@@ -85,8 +86,10 @@ int main(void)
 
   /* Initialize all configured peripherals */
   MX_GPIO_Init();
+  MX_TIM2_Init();
+  MX_TIM3_Init();
   /* USER CODE BEGIN 2 */
-
+  HAL_TIM_Base_Start_IT(&htim2);
   /* USER CODE END 2 */
 
   /* Infinite loop */
@@ -155,9 +158,26 @@ void SystemClock_Config(void)
 void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 {
     /* Prevent unused argument(s) compilation warning */
+    if(GPIO_Pin==SW_1_Pin)
+        HAL_TIM_IRQHandler(&htim2);
+
+        if(HAL_GPIO_ReadPin(SW_1_GPIO_Port,SW_1_Pin)==GPIO_PIN_RESET)
+        {
+
+        }
+
     UNUSED(GPIO_Pin);
     /* NOTE: This function Should not be modified, when the callback is needed,
              the HAL_GPIO_EXTI_Callback could be implemented in the user file
+     */
+}
+void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef *htim)
+{
+    /* Prevent unused argument(s) compilation warning */
+    UNUSED(htim);
+
+    /* NOTE : This function should not be modified, when the callback is needed,
+              the HAL_TIM_PeriodElapsedCallback could be implemented in the user file
      */
 }
 /* USER CODE END 4 */
