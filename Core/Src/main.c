@@ -18,7 +18,9 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
+#include "can.h"
 #include "tim.h"
+#include "usart.h"
 #include "gpio.h"
 
 /* Private includes ----------------------------------------------------------*/
@@ -44,7 +46,17 @@
 /* Private variables ---------------------------------------------------------*/
 
 /* USER CODE BEGIN PV */
-
+    uint32_t  LED_Status=0;
+    uint16_t  Pwm_Dc=0;
+    uint8_t  Sw_Status=0;
+    char off[]="off";
+    char on[]="on";
+    char wr[]="wrong command";
+    char cm=0;
+    enum Status{
+        LED_ON,
+        LED_OFF
+    }state;
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
@@ -88,20 +100,60 @@ int main(void)
   MX_GPIO_Init();
   MX_TIM2_Init();
   MX_TIM3_Init();
+  MX_USART1_UART_Init();
+  MX_CAN1_Init();
   /* USER CODE BEGIN 2 */
-  HAL_TIM_Base_Start_IT(&htim2);
+    HAL_TIM_PWM_Start(&htim3,TIM_CHANNEL_3);
+    HAL_UART_Receive_IT(&huart1,(uint8_t*)&cm,1);
   /* USER CODE END 2 */
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+      if(Sw_Status==1||Sw_Status==2)
+      {
 
-      HAL_Delay(500);
-      HAL_GPIO_WritePin(LED2_GPIO_Port,LED2_Pin,GPIO_PIN_RESET);
-      HAL_Delay(500);
-      HAL_GPIO_WritePin(LED2_GPIO_Port,LED2_Pin,GPIO_PIN_SET);
+          HAL_Delay(LED_Status);
+          HAL_GPIO_WritePin(LED2_GPIO_Port,LED2_Pin ,GPIO_PIN_RESET);
 
+          HAL_Delay(LED_Status);
+          HAL_GPIO_WritePin(LED2_GPIO_Port,LED2_Pin,GPIO_PIN_SET);
+      }
+      if(Sw_Status==3)
+      {
+          while(Pwm_Dc<500)
+          {
+              Pwm_Dc++;
+              __HAL_TIM_SetCompare(&htim3,TIM_CHANNEL_3,Pwm_Dc);
+              //TIM3->CCR3=Pwm_Dc;
+              HAL_Delay(2);
+          }
+          while(Pwm_Dc>0)
+          {
+              Pwm_Dc--;
+              __HAL_TIM_SetCompare(&htim3,TIM_CHANNEL_3,Pwm_Dc);
+              HAL_Delay(2);
+          }
+          HAL_Delay(298);
+      }
+
+      /*if(LED_Status)
+      {
+          HAL_Delay(500);
+          HAL_GPIO_WritePin(LED2_GPIO_Port,LED2_Pin,GPIO_PIN_RESET);
+          HAL_Delay(500);
+          HAL_GPIO_WritePin(LED2_GPIO_Port,LED2_Pin,GPIO_PIN_SET);
+
+      }
+      if(!LED_Status)
+      {
+          HAL_Delay(1000);
+          HAL_GPIO_WritePin(LED2_GPIO_Port,LED2_Pin,GPIO_PIN_RESET);
+          HAL_Delay(1000);
+          HAL_GPIO_WritePin(LED2_GPIO_Port,LED2_Pin,GPIO_PIN_SET);
+      }*/
+      
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
@@ -159,12 +211,24 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 {
     /* Prevent unused argument(s) compilation warning */
     if(GPIO_Pin==SW_1_Pin)
-        HAL_TIM_IRQHandler(&htim2);
-
-        if(HAL_GPIO_ReadPin(SW_1_GPIO_Port,SW_1_Pin)==GPIO_PIN_RESET)
+    {
+        HAL_TIM_Base_Start_IT(&htim2);
+        //HAL_TIM_IRQHandler(&htim2);
+        Sw_Status++;
+        Sw_Status%=4;
+        if(HAL_GPIO_ReadPin(SW_1_GPIO_Port,SW_1_Pin)==GPIO_PIN_SET)
         {
+            if(Sw_Status==1)
+            {
+                LED_Status=500;
+            }
+            if(Sw_Status==2)
+            {
+                LED_Status=1000;
+            }
 
         }
+    }
 
     UNUSED(GPIO_Pin);
     /* NOTE: This function Should not be modified, when the callback is needed,
@@ -174,10 +238,38 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef *htim)
 {
     /* Prevent unused argument(s) compilation warning */
+    ///HAL_TIM_Base_Start_IT(&htim2);
+
     UNUSED(htim);
 
     /* NOTE : This function should not be modified, when the callback is needed,
               the HAL_TIM_PeriodElapsedCallback could be implemented in the user file
+     */
+}
+
+void HAL_UART_RxCpltCallback(UART_HandleTypeDef *huart)
+{
+
+    if(cm=='a')
+    {
+        LED_Status=250;
+        HAL_UART_Transmit_IT(&huart1,(uint8_t*)&on,3);
+
+    }
+    else if(cm=='b')
+    {
+        LED_Status=500;
+        HAL_UART_Transmit_IT(&huart1,(uint8_t*)&off,4);
+    }
+    else
+    {
+        HAL_UART_Transmit_IT(&huart1,(uint8_t*)&wr,14);
+    }
+    HAL_UART_Receive_IT(&huart1,(uint8_t*)&cm,1);
+    /* Prevent unused argument(s) compilation warning */
+    UNUSED(huart);
+    /* NOTE: This function should not be modified, when the callback is needed,
+             the HAL_UART_RxCpltCallback could be implemented in the user file
      */
 }
 /* USER CODE END 4 */

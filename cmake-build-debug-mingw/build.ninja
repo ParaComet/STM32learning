@@ -49,6 +49,16 @@ cmake_ninja_workdir = D$:/untitled/cmake-build-debug-mingw/
 
 build cmake_object_order_depends_target_untitled.elf: phony || CMakeFiles/untitled.elf.dir
 
+build CMakeFiles/untitled.elf.dir/Core/Src/can.c.obj: C_COMPILER__untitled.2eelf_unscanned_Debug D$:/untitled/Core/Src/can.c || cmake_object_order_depends_target_untitled.elf
+  DEFINES = -DARM_MATH_CM4 -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
+  DEP_FILE = CMakeFiles\untitled.elf.dir\Core\Src\can.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  INCLUDES = -ID:/untitled/Core/Inc -ID:/untitled/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/untitled/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/untitled/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/untitled/Drivers/CMSIS/Include
+  OBJECT_DIR = CMakeFiles\untitled.elf.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled.elf.dir\Core\Src
+  TARGET_COMPILE_PDB = CMakeFiles\untitled.elf.dir\
+  TARGET_PDB = untitled.elf.pdb
+
 build CMakeFiles/untitled.elf.dir/Core/Src/gpio.c.obj: C_COMPILER__untitled.2eelf_unscanned_Debug D$:/untitled/Core/Src/gpio.c || cmake_object_order_depends_target_untitled.elf
   DEFINES = -DARM_MATH_CM4 -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\untitled.elf.dir\Core\Src\gpio.c.obj.d
@@ -129,6 +139,16 @@ build CMakeFiles/untitled.elf.dir/Core/Src/tim.c.obj: C_COMPILER__untitled.2eelf
   TARGET_COMPILE_PDB = CMakeFiles\untitled.elf.dir\
   TARGET_PDB = untitled.elf.pdb
 
+build CMakeFiles/untitled.elf.dir/Core/Src/usart.c.obj: C_COMPILER__untitled.2eelf_unscanned_Debug D$:/untitled/Core/Src/usart.c || cmake_object_order_depends_target_untitled.elf
+  DEFINES = -DARM_MATH_CM4 -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
+  DEP_FILE = CMakeFiles\untitled.elf.dir\Core\Src\usart.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  INCLUDES = -ID:/untitled/Core/Inc -ID:/untitled/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/untitled/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/untitled/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/untitled/Drivers/CMSIS/Include
+  OBJECT_DIR = CMakeFiles\untitled.elf.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled.elf.dir\Core\Src
+  TARGET_COMPILE_PDB = CMakeFiles\untitled.elf.dir\
+  TARGET_PDB = untitled.elf.pdb
+
 build CMakeFiles/untitled.elf.dir/Core/Startup/startup_stm32f407zgtx.s.obj: ASM_COMPILER__untitled.2eelf_unscanned_Debug D$:/untitled/Core/Startup/startup_stm32f407zgtx.s || cmake_object_order_depends_target_untitled.elf
   DEFINES = -DARM_MATH_CM4 -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\untitled.elf.dir\Core\Startup\startup_stm32f407zgtx.s.obj.d
@@ -142,6 +162,16 @@ build CMakeFiles/untitled.elf.dir/Core/Startup/startup_stm32f407zgtx.s.obj: ASM_
 build CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj: C_COMPILER__untitled.2eelf_unscanned_Debug D$:/untitled/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c || cmake_object_order_depends_target_untitled.elf
   DEFINES = -DARM_MATH_CM4 -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\untitled.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  INCLUDES = -ID:/untitled/Core/Inc -ID:/untitled/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/untitled/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/untitled/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/untitled/Drivers/CMSIS/Include
+  OBJECT_DIR = CMakeFiles\untitled.elf.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src
+  TARGET_COMPILE_PDB = CMakeFiles\untitled.elf.dir\
+  TARGET_PDB = untitled.elf.pdb
+
+build CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj: C_COMPILER__untitled.2eelf_unscanned_Debug D$:/untitled/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c || cmake_object_order_depends_target_untitled.elf
+  DEFINES = -DARM_MATH_CM4 -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
+  DEP_FILE = CMakeFiles\untitled.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_can.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -ID:/untitled/Core/Inc -ID:/untitled/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/untitled/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/untitled/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/untitled/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\untitled.elf.dir
@@ -289,6 +319,16 @@ build CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal
   TARGET_COMPILE_PDB = CMakeFiles\untitled.elf.dir\
   TARGET_PDB = untitled.elf.pdb
 
+build CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj: C_COMPILER__untitled.2eelf_unscanned_Debug D$:/untitled/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c || cmake_object_order_depends_target_untitled.elf
+  DEFINES = -DARM_MATH_CM4 -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
+  DEP_FILE = CMakeFiles\untitled.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_uart.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  INCLUDES = -ID:/untitled/Core/Inc -ID:/untitled/Drivers/STM32F4xx_HAL_Driver/Inc -ID:/untitled/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/untitled/Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/untitled/Drivers/CMSIS/Include
+  OBJECT_DIR = CMakeFiles\untitled.elf.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src
+  TARGET_COMPILE_PDB = CMakeFiles\untitled.elf.dir\
+  TARGET_PDB = untitled.elf.pdb
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target untitled.elf
@@ -297,7 +337,7 @@ build CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal
 #############################################
 # Link the executable untitled.elf
 
-build untitled.elf: C_EXECUTABLE_LINKER__untitled.2eelf_Debug CMakeFiles/untitled.elf.dir/Core/Src/gpio.c.obj CMakeFiles/untitled.elf.dir/Core/Src/main.c.obj CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_it.c.obj CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj CMakeFiles/untitled.elf.dir/Core/Src/sysmem.c.obj CMakeFiles/untitled.elf.dir/Core/Src/system_stm32f4xx.c.obj CMakeFiles/untitled.elf.dir/Core/Src/tim.c.obj CMakeFiles/untitled.elf.dir/Core/Startup/startup_stm32f407zgtx.s.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+build untitled.elf: C_EXECUTABLE_LINKER__untitled.2eelf_Debug CMakeFiles/untitled.elf.dir/Core/Src/can.c.obj CMakeFiles/untitled.elf.dir/Core/Src/gpio.c.obj CMakeFiles/untitled.elf.dir/Core/Src/main.c.obj CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj CMakeFiles/untitled.elf.dir/Core/Src/stm32f4xx_it.c.obj CMakeFiles/untitled.elf.dir/Core/Src/syscalls.c.obj CMakeFiles/untitled.elf.dir/Core/Src/sysmem.c.obj CMakeFiles/untitled.elf.dir/Core/Src/system_stm32f4xx.c.obj CMakeFiles/untitled.elf.dir/Core/Src/tim.c.obj CMakeFiles/untitled.elf.dir/Core/Src/usart.c.obj CMakeFiles/untitled.elf.dir/Core/Startup/startup_stm32f407zgtx.s.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj CMakeFiles/untitled.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
   FLAGS = -g
   LINK_FLAGS = -mfloat-abi=hard -mfpu=fpv4-sp-d16 -Wl,-gc-sections,--print-memory-usage,-Map=D:/untitled/cmake-build-debug-mingw/untitled.map -mcpu=cortex-m4 -mthumb -mthumb-interwork -T D:/untitled/STM32F407ZGTX_FLASH.ld
   OBJECT_DIR = CMakeFiles\untitled.elf.dir
